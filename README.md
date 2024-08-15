@@ -251,5 +251,5 @@ strikeout ~~strkeout~~
 
 Thanks for watching till the end . we have learned markdown syntax
 
-start it ⭐
+star it ⭐
 
